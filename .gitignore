@@ -6,6 +6,7 @@ dist
 coverage
 .settings
 .idea
+.history
 *.log
 workshopSteps.txt
 .vscode
